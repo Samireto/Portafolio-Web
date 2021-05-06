@@ -1,0 +1,31 @@
+a, p, h3 {
+  font-family: Montserrat Alternates, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+.banner {
+  position: relative;
+}
+
+.heading {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  color: white;
+}
+
+.navbl{
+  background-color: #415a8b;
+}
+
+ .bg-by {
+   background-color: #415a8b;
+   color: #e2ad2f;
+ }
