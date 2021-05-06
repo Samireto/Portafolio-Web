@@ -1,7 +1,12 @@
-a, p, h3 {
+h3{
   font-family: Montserrat Alternates, sans-serif;
+  font-weight: 600;
 }
 
+a, p {
+  font-family: Montserrat Alternates, sans-serif;
+  font-weight: 400;
+}
 a {
   color: white;
 }
