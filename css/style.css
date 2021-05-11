@@ -1,17 +1,69 @@
-h3{
+h3, a {
   font-family: Montserrat Alternates, sans-serif;
   font-weight: 600;
 }
 
-a, p {
+h3 {
+  font-size: 2.5rem;
+}
+
+h6 {
+  font-family: Montserrat Alternates, sans-serif;
+  font-weight: 600;
+  text-align: left;
+}
+
+p {
   font-family: Montserrat Alternates, sans-serif;
   font-weight: 400;
+  font-size: 1.5rem;
 }
+
 a {
   color: white;
 }
 
-h3 {
+label {
+  font-family: Montserrat Alternates, sans-serif;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+footer {
+  color: #415a8b;
+  margin: 25px 0;
+}
+
+.alg-center {
+  text-align: center;
+}
+
+.send-button {
+  font-family: Montserrat Alternates, sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #e2ad2f;
+  background-color: #415a8b;
+  border: none;
+}
+
+.send-button:hover {
+  color: #415a8b;
+  background-color: #e2ad2f;
+}
+
+.nav-link:hover {
+  color:#415a8b;
+  background-color: #e2ad2f;
+}
+
+.m-tp {
+  margin-top: 70px;
+}
+
+.m-txt {
+  margin-top: 25px;
+  margin-bottom: 25px;
   text-align: center;
 }
 
@@ -24,6 +76,11 @@ h3 {
   top: 50%;
   width: 100%;
   color: white;
+  text-align: center;
+}
+
+.fontb {
+  color: #415a8b;
 }
 
 .navbl{
@@ -33,4 +90,8 @@ h3 {
  .bg-by {
    background-color: #415a8b;
    color: #e2ad2f;
+ }
+ .tm {
+   float: left;
+   margin-right: 5px;
  }
