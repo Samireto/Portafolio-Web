@@ -1,10 +1,14 @@
-h3, a {
+h2, h3, a {
   font-family: Montserrat Alternates, sans-serif;
   font-weight: 600;
 }
 
 h3 {
   font-size: 2.5rem;
+}
+
+h2{
+  font-size: 2rem;
 }
 
 h6 {
@@ -23,7 +27,7 @@ a {
   color: white;
 }
 
-label {
+label{
   font-family: Montserrat Alternates, sans-serif;
   font-weight: 600;
   font-size: 2.5rem;
@@ -32,6 +36,11 @@ label {
 footer {
   color: #415a8b;
   margin: 25px 0;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
 }
 
 .alg-center {
@@ -94,4 +103,8 @@ footer {
  .tm {
    float: left;
    margin-right: 5px;
+ }
+
+ .img-banner {
+   width: 100%;
  }
